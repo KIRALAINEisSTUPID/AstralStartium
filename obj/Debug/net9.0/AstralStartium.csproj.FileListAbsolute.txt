@@ -1,0 +1,17 @@
+C:\Users\user\AstralStartium\bin\Debug\net9.0\AstralStartium.exe
+C:\Users\user\AstralStartium\bin\Debug\net9.0\AstralStartium.deps.json
+C:\Users\user\AstralStartium\bin\Debug\net9.0\AstralStartium.runtimeconfig.json
+C:\Users\user\AstralStartium\bin\Debug\net9.0\AstralStartium.dll
+C:\Users\user\AstralStartium\bin\Debug\net9.0\AstralStartium.pdb
+C:\Users\user\AstralStartium\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\user\AstralStartium\obj\Debug\net9.0\AstralStartium.csproj.AssemblyReference.cache
+C:\Users\user\AstralStartium\obj\Debug\net9.0\AstralStartium.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\AstralStartium\obj\Debug\net9.0\AstralStartium.AssemblyInfoInputs.cache
+C:\Users\user\AstralStartium\obj\Debug\net9.0\AstralStartium.AssemblyInfo.cs
+C:\Users\user\AstralStartium\obj\Debug\net9.0\AstralStartium.csproj.CoreCompileInputs.cache
+C:\Users\user\AstralStartium\obj\Debug\net9.0\AstralSt.A2621714.Up2Date
+C:\Users\user\AstralStartium\obj\Debug\net9.0\AstralStartium.dll
+C:\Users\user\AstralStartium\obj\Debug\net9.0\refint\AstralStartium.dll
+C:\Users\user\AstralStartium\obj\Debug\net9.0\AstralStartium.pdb
+C:\Users\user\AstralStartium\obj\Debug\net9.0\AstralStartium.genruntimeconfig.cache
+C:\Users\user\AstralStartium\obj\Debug\net9.0\ref\AstralStartium.dll
